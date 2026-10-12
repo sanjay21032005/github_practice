@@ -1,2 +1,4 @@
-# github_practice
-we are going to learn about github
+# github\_practice
+
+I am Sanjay from RVS college 
+
